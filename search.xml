@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2023/03/11/hello-world/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>第一篇文章</title>
     <url>/2023/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>嗨嗨，欢迎来到第一篇博客</p>
@@ -8,10 +13,5 @@
       <tags>
         <tag>book</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/03/11/hello-world/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
