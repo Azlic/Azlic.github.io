@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-28T15:04:47.839Z</updated>
+  <updated>2025-01-11T12:13:55.951Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>have a try</title>
+    <link href="http://example.com/2025/01/11/have-a-try/"/>
+    <id>http://example.com/2025/01/11/have-a-try/</id>
+    <published>2025-01-11T12:13:55.000Z</published>
+    <updated>2025-01-11T12:13:55.951Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2025年记</title>
+    <link href="http://example.com/2025/01/11/2025%E5%B9%B4%E8%AE%B0/"/>
+    <id>http://example.com/2025/01/11/2025%E5%B9%B4%E8%AE%B0/</id>
+    <published>2025-01-11T12:09:02.000Z</published>
+    <updated>2025-01-11T12:10:11.691Z</updated>
+    
+    <content type="html"><![CDATA[<p>25年又重新打开这个博客啦</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;25年又重新打开这个博客啦&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>正式文章！</title>
