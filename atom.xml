@@ -38,21 +38,23 @@
   </entry>
   
   <entry>
-    <title>Excerpt Test</title>
-    <link href="http://example.com/2022/12/20/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://example.com/2022/12/20/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <title>置顶说明</title>
+    <link href="http://example.com/2022/12/20/%E7%BD%AE%E9%A1%B6%E8%AF%B4%E6%98%8E/"/>
+    <id>http://example.com/2022/12/20/%E7%BD%AE%E9%A1%B6%E8%AF%B4%E6%98%8E/</id>
     <published>2022-12-20T04:12:12.000Z</published>
-    <updated>2025-01-11T17:23:22.332Z</updated>
+    <updated>2025-01-17T13:07:33.629Z</updated>
+    
+    <content type="html"><![CDATA[<p>此博客由hexo搭建，仅用于个人学习。</p>]]></content>
     
     
-    <summary type="html">这是文章摘要 This is the excerpt of the post</summary>
+    <summary type="html">参观此博客先看👇</summary>
     
     
     
-    <category term="Excerpt" scheme="http://example.com/categories/Excerpt/"/>
+    <category term="其他" scheme="http://example.com/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-    <category term="Excerpt" scheme="http://example.com/tags/Excerpt/"/>
+    <category term="通知" scheme="http://example.com/tags/%E9%80%9A%E7%9F%A5/"/>
     
   </entry>
   

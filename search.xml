@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Excerpt Test</title>
-    <url>/2022/12/20/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%20-%20%E5%89%AF%E6%9C%AC/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Excerpt</category>
-      </categories>
-      <tags>
-        <tag>Excerpt</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>九号秘事</title>
     <url>/2025/01/11/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B/</url>
     <content><![CDATA[<div class="tabs" id="tab-选择观看内容"><ul class="nav-tabs"><li class="tab active"><a class="#选择观看内容-1">稿子</a></li><li class="tab"><a class="#选择观看内容-2">PPT</a></li><li class="tab"><a class="#选择观看内容-3">评</a></li></ul><div class="tab-content"><div class="tab-pane active" id="选择观看内容-1"><p>Inside no.9</p>
@@ -68,6 +57,18 @@
       </categories>
       <tags>
         <tag>单元剧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>置顶说明</title>
+    <url>/2022/12/20/%E7%BD%AE%E9%A1%B6%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<p>此博客由hexo搭建，仅用于个人学习。</p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>通知</tag>
       </tags>
   </entry>
 </search>
