@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-11T12:13:55.951Z</updated>
+  <updated>2025-01-11T16:55:11.673Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,97 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>have a try</title>
-    <link href="http://example.com/2025/01/11/have-a-try/"/>
-    <id>http://example.com/2025/01/11/have-a-try/</id>
-    <published>2025-01-11T12:13:55.000Z</published>
-    <updated>2025-01-11T12:13:55.951Z</updated>
+    <title>九号秘事</title>
+    <link href="http://example.com/2025/01/11/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B/"/>
+    <id>http://example.com/2025/01/11/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B/</id>
+    <published>2025-01-11T15:59:55.000Z</published>
+    <updated>2025-01-11T16:55:11.673Z</updated>
+    
+    
+    <summary type="html">九号秘事相关~</summary>
     
     
     
+    <category term="剧" scheme="http://example.com/categories/%E5%89%A7/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>2025年记</title>
-    <link href="http://example.com/2025/01/11/2025%E5%B9%B4%E8%AE%B0/"/>
-    <id>http://example.com/2025/01/11/2025%E5%B9%B4%E8%AE%B0/</id>
-    <published>2025-01-11T12:09:02.000Z</published>
-    <updated>2025-01-11T12:10:11.691Z</updated>
-    
-    <content type="html"><![CDATA[<p>25年又重新打开这个博客啦</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;25年又重新打开这个博客啦&lt;/p&gt;
-</summary>
-      
-    
-    
-    
+    <category term="单元剧" scheme="http://example.com/tags/%E5%8D%95%E5%85%83%E5%89%A7/"/>
     
   </entry>
   
   <entry>
-    <title>正式文章！</title>
-    <link href="http://example.com/2024/07/28/%E5%B0%9D%E8%AF%95%E5%86%99%E4%BD%9C%EF%BC%81/"/>
-    <id>http://example.com/2024/07/28/%E5%B0%9D%E8%AF%95%E5%86%99%E4%BD%9C%EF%BC%81/</id>
-    <published>2024-07-28T12:32:48.000Z</published>
-    <updated>2024-07-28T15:04:47.839Z</updated>
-    
-    <content type="html"><![CDATA[  <div class="note-large red">    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">      <p>自定义标题</p>    </div>    <div class="notel-content">      <p>换行测试<br>换行测试<br>换行测试</p>    </div>  </div><div class="tabs" id="tab-first-unique-name"><ul class="nav-tabs"><li class="tab active"><a class="#first-unique-name-1">栏目一</a></li><li class="tab"><a class="#first-unique-name-2">栏目二</a></li><li class="tab"><a class="#first-unique-name-3">栏目三</a></li><li class="tab"><a class="#first-unique-name-4">栏目四</a></li></ul><div class="tab-content"><div class="tab-pane active" id="first-unique-name-1"><p>这里是步骤一</p></div><div class="tab-pane" id="first-unique-name-2"><p> 这里是步骤二</p></div><div class="tab-pane" id="first-unique-name-3"><p>这里是步骤三</p></div><div class="tab-pane" id="first-unique-name-4"><p>这里是贴图</p></div></div></div>]]></content>
+    <title>Excerpt Test</title>
+    <link href="http://example.com/2022/12/20/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>http://example.com/2022/12/20/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <published>2022-12-20T04:12:12.000Z</published>
+    <updated>2025-01-11T17:23:22.332Z</updated>
     
     
-      
-      
-    <summary type="html">
-  &lt;div class=&quot;note-large red&quot;&gt;
-    &lt;div class=&quot;notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center&quot;&gt;
-      &lt;p&gt;自</summary>
-      
+    <summary type="html">这是文章摘要 This is the excerpt of the post</summary>
     
     
     
-    
-    <category term="technology" scheme="http://example.com/tags/technology/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="http://example.com/2023/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2023/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-    <published>2023-10-24T12:32:48.000Z</published>
-    <updated>2023-10-24T13:15:52.011Z</updated>
-    
-    <content type="html"><![CDATA[<p>嗨嗨，欢迎来到第一篇博客</p>]]></content>
+    <category term="Excerpt" scheme="http://example.com/categories/Excerpt/"/>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;嗨嗨，欢迎来到第一篇博客&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="book" scheme="http://example.com/tags/book/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2023/03/11/hello-world/"/>
-    <id>http://example.com/2023/03/11/hello-world/</id>
-    <published>2023-03-11T08:16:14.409Z</published>
-    <updated>2023-10-24T13:16:02.632Z</updated>
-    
-    
-    
-    
+    <category term="Excerpt" scheme="http://example.com/tags/Excerpt/"/>
     
   </entry>
   

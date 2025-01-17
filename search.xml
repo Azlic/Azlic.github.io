@@ -1,50 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/03/11/hello-world/</url>
+    <title>Excerpt Test</title>
+    <url>/2022/12/20/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B%20-%20%E5%89%AF%E6%9C%AC/</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>第一篇文章</title>
-    <url>/2023/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>嗨嗨，欢迎来到第一篇博客</p>
-]]></content>
+      <categories>
+        <category>Excerpt</category>
+      </categories>
       <tags>
-        <tag>book</tag>
+        <tag>Excerpt</tag>
       </tags>
   </entry>
   <entry>
-    <title>正式文章！</title>
-    <url>/2024/07/28/%E5%B0%9D%E8%AF%95%E5%86%99%E4%BD%9C%EF%BC%81/</url>
-    <content><![CDATA[
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>自定义标题</p>
-
-    </div>
-    <div class="notel-content">
-      <p>换行测试<br>换行测试<br>换行测试</p>
-
-    </div>
-  </div>
-
-
-
-<div class="tabs" id="tab-first-unique-name"><ul class="nav-tabs"><li class="tab active"><a class="#first-unique-name-1">栏目一</a></li><li class="tab"><a class="#first-unique-name-2">栏目二</a></li><li class="tab"><a class="#first-unique-name-3">栏目三</a></li><li class="tab"><a class="#first-unique-name-4">栏目四</a></li></ul><div class="tab-content"><div class="tab-pane active" id="first-unique-name-1"><p>这里是步骤一</p></div><div class="tab-pane" id="first-unique-name-2"><p> 这里是步骤二</p></div><div class="tab-pane" id="first-unique-name-3"><p>这里是步骤三</p></div><div class="tab-pane" id="first-unique-name-4"><p>这里是贴图</p></div></div></div>]]></content>
-      <tags>
-        <tag>technology</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2025年记</title>
-    <url>/2025/01/11/2025%E5%B9%B4%E8%AE%B0/</url>
-    <content><![CDATA[<p>25年又重新打开这个博客啦</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>have a try</title>
-    <url>/2025/01/11/have-a-try/</url>
+    <title>九号秘事</title>
+    <url>/2025/01/11/%E4%B9%9D%E5%8F%B7%E7%A7%98%E4%BA%8B/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>剧</category>
+      </categories>
+      <tags>
+        <tag>单元剧</tag>
+      </tags>
   </entry>
 </search>
