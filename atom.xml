@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-17T15:10:54.120Z</updated>
+  <updated>2025-08-12T08:54:19.707Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一周 -“以输出倒推输入”</title>
+    <link href="http://example.com/2025/08/12/%E7%AC%AC%E4%B8%80%E5%91%A8%E5%91%A8%E6%8A%A5/"/>
+    <id>http://example.com/2025/08/12/%E7%AC%AC%E4%B8%80%E5%91%A8%E5%91%A8%E6%8A%A5/</id>
+    <published>2025-08-12T08:06:24.000Z</published>
+    <updated>2025-08-12T08:54:19.707Z</updated>
+    
+    <content type="html"><![CDATA[<p>下面是这一周内有趣的事的积累，作为一个小小的尝试，尽量保持更新，帮助自己更好的学习。</p><h2 id="有趣的事"><a href="#有趣的事" class="headerlink" title="有趣的事"></a>有趣的事</h2><hr><h3 id="饥荒服务器的创建"><a href="#饥荒服务器的创建" class="headerlink" title="饥荒服务器的创建"></a>饥荒服务器的创建</h3><p>受限与科雷本身服务器太过于卡顿，甚至是局域网都很难进行联机游戏，因此又重新想要搭建一个本地的服务器。</p>  <div class="note-large blue">    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">      <p>饥荒服务器大家那保姆式教学</p>    </div>    <div class="notel-content">      <p><a class="link"   href="https://blog.csdn.net/2301_76733644/article/details/145741733" >可供参考文章<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>：<br>补充说明：</p><ol><li>mod的更新容易出问题，Documents\Klei\DoNotStarveTogether\Cluster_1\Master和Documents\Klei\DoNotStarveTogether\Cluster_1\Caves里的modoverrides.lua文件很难直接修改，主要是一些mod，可以新开一个世界把需要的mod加上直接生成文件，然后直接从那个世界粘贴过来即可，记住两个都要换</li><li>使用的是自己更新的方式，而且只需要修改饥荒服务器里面的mods文件的更新代码就可以，不需要自己补代码</li></ol>    </div>  </div><hr><h3 id="睡回笼觉总是容易做梦"><a href="#睡回笼觉总是容易做梦" class="headerlink" title="睡回笼觉总是容易做梦"></a>睡回笼觉总是容易做梦</h3><p>回顾这段时间的睡眠，突然发现早上睡回笼觉做梦的频率特别高，因此特意找了一下原因。<br>下面是GPT的回答：<br>这是一个很常见的现象，从科学角度来看，早上六七点醒来后再入睡时容易做梦、尤其是噩梦，主要与<strong>睡眠结构变化、生理节律以及大脑活动状态</strong>有关。</p><ol><li>睡眠结构的变化</li></ol><ul><li><strong>清晨的睡眠阶段多为REM期（快速眼动期）</strong><br>人类的睡眠是多个<strong>90分钟左右的周期</strong>，包括浅睡（N1&#x2F;N2）、深睡（N3）和快速眼动期（REM）。<ul><li>在整晚睡眠的后半段（接近清晨），<strong>REM期比例显著增加</strong>。</li><li>REM期是梦境最活跃、最生动的阶段，因为此时大脑皮层的活动接近清醒状态。</li></ul></li><li><strong>二次入睡时容易直接进入REM期</strong><br>当你六七点醒来后再入睡，身体并不需要重新经历很长的深睡过程，而是很快回到REM期，因此梦境更频繁、更容易被记住。</li></ul><ol start="2"><li>脑部活动与梦境情绪</li></ol><ul><li><strong>杏仁核（amygdala）活动增强</strong><br>REM期大脑中负责情绪加工的杏仁核活动很活跃，尤其是在睡眠被中断、再入睡后，杏仁核更容易主导梦境内容，使梦带有<strong>强烈的情绪色彩</strong>（恐惧、焦虑等）。</li><li><strong>前额叶皮层抑制减弱</strong><br>前额叶皮层负责逻辑推理和情绪调节，在REM期的活跃度较低，所以梦境中的不合理情节和过度情绪不容易被“纠正”，增加噩梦的可能性。</li></ul><ol start="3"><li>生理节律与环境影响</li></ol><ul><li><strong>接近起床时间，皮质醇水平升高</strong><br>早晨临近醒来时，皮质醇（应激激素）浓度会升高，以帮助身体苏醒。这种激素的升高可能让梦境情绪更加紧张或焦虑化。</li><li><strong>外界刺激容易干扰</strong><br>早晨的环境（光照、噪音、温度变化）容易半唤醒大脑，导致梦境与外界声音、光线等融合，更容易形成紧张或怪异的情节。</li></ul><ol start="4"><li>为什么更容易记住噩梦</li></ol><ul><li><strong>接近清醒时的大脑记忆巩固机制</strong><br>梦境发生在接近醒来的阶段，大脑的短时记忆更容易被转化成可回忆的内容，所以清晨的梦（包括噩梦）比夜间的更容易被记住。</li><li><strong>情绪越强烈，记忆越牢固</strong><br>恐惧、焦虑等情绪会触发杏仁核和海马体的协同工作，使梦境细节在醒后更清晰。</li></ul>]]></content>
+    
+    
+    <summary type="html">作为每一周资讯的积累</summary>
+    
+    
+    
+    <category term="周报" scheme="http://example.com/categories/%E5%91%A8%E6%8A%A5/"/>
+    
+    
+    <category term="资讯" scheme="http://example.com/tags/%E8%B5%84%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>九号秘事</title>
